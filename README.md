@@ -8,7 +8,7 @@ The Simplified Data for Marketing (SDfM) model is designed to enable rapid activ
 |                     |               | EMAIL\_ADDRESS         | Email address include @           |
 |                     |               | FIRST\_NAME            | First name of customer         |
 |                     |               | LAST\_NAME             | Surname of customer           |
-|                     |               | TEL\_NUMBER            | Mobile or landline number - use E.164 format  |
+|                     |               | TEL\_NUMBER            | Mobile or landline number - use E.164 format Remove symbols, letters, and any leading zeroes. You should prefix the country code  |
 |                     |               | GENDER                 |  M = Male F = Female          |
 |                     |               | DOB                    |  DD/MM/YYYY Format          |
 |                     |               | ZIP\_CODE              |             |
