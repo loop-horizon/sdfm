@@ -5,12 +5,12 @@ The Simplified Data for Marketing (SDfM) model is designed to enable rapid activ
 | Category            | Sub-Category  | Field                  | Description |
 | ------------------- | ------------- | ---------------------- | ----------- |
 | IDENTITY            | CRM           | CUSTOMER\_ID           | The primary customer ID used for syncing data (Adobe Analytics/GA)            |
-|                     |               | EMAIL\_ADDRESS         |             |
-|                     |               | FIRST\_NAME            |             |
-|                     |               | LAST\_NAME             |             |
-|                     |               | TEL\_NUMBER            |             |
-|                     |               | GENDER                 |             |
-|                     |               | DOB                    |             |
+|                     |               | EMAIL\_ADDRESS         | Email address include @           |
+|                     |               | FIRST\_NAME            | First name of customer         |
+|                     |               | LAST\_NAME             | Surname of customer           |
+|                     |               | TEL\_NUMBER            | Mobile or landline number - use E.164 format  |
+|                     |               | GENDER                 |  M = Male F = Female          |
+|                     |               | DOB                    |  DD/MM/YYYY Format          |
 |                     |               | ZIP\_CODE              |             |
 |                     |               | CITY                   |             |
 |                     |               | COUNTRY                |             |
