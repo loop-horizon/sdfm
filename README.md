@@ -4,7 +4,7 @@ The Simplified Data for Marketing (SDfM) model is designed to enable rapid activ
 
 | Category            | Sub-Category  | Field                  | Description |
 | ------------------- | ------------- | ---------------------- | ----------- |
-| IDENTITY            | CRM           | CUSTOMER\_ID           |             |
+| IDENTITY            | CRM           | CUSTOMER\_ID           | The primary customer ID used for syncing data (Adobe Analytics/GA)            |
 |                     |               | EMAIL\_ADDRESS         |             |
 |                     |               | FIRST\_NAME            |             |
 |                     |               | LAST\_NAME             |             |
