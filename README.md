@@ -1,6 +1,17 @@
 # Simplified Data for Marketing (SDfM) Schema
 
-The Simplified Data for Marketing (SDfM) model is designed to enable rapid activation of customer data across multiple digital touchpoints. This repositary contains the source code and specification of the SDfM model, using data definition langauge.
+The Simplified Data for Marketing (SDfM) model is designed to enable rapid activation of customer data across multiple digital touchpoints.  The SDfM schema can be deployed within your data warehouse and has been architected to provide all the required data points to integrate customer data with the following endpoints: 
+
+```bash
+Adobe Experience Cloud
+Google Ads
+Facebook Ads
+....
+```
+
+
+
+This repositary contains the source code and specification of the SDfM model, using data definition langauge.
 
 
 
