@@ -10,7 +10,7 @@ The Simplified Data for Marketing (SDfM) model is designed to enable rapid activ
 
 
 
-This repositary contains the source code and specification of the SDfM model, using data definition langauge.
+This repo contains the source code and specification of the SDfM model, using data definition langauge.
 
 | Category            | Sub-Category   | Field                                | DataType   | Nullable | Exclude from UI (Builder) | UI Category Name | Description/Format                                                                                                                                                                                                              |
 |---------------------|----------------|--------------------------------------|------------|----------|---------------------------|------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
