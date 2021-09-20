@@ -9,9 +9,6 @@ The Simplified Data for Marketing (SDfM) model is designed to enable rapid activ
 ```
 
 
-
-This repo contains the source code and specification of the SDfM model, using data definition langauge.
-
 | Category            | Sub-Category   | Field                                | DataType   | Nullable | Exclude from UI (Builder) | UI Category Name | Description/Format                                                                                                                                                                                                              |
 |---------------------|----------------|--------------------------------------|------------|----------|---------------------------|------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | IDENTITY            | CRM            | CUSTOMER_ID(PK)                      | VARCHAR    | 0        | X                         | -                | Primary key for the table - internal customer id                                                                                                                                                                                |
