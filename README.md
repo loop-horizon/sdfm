@@ -10,6 +10,8 @@ The Simplified Data for Marketing (SDfM) model is designed to enable rapid activ
 * TikTok
 * Twitter
 * LinkedIn
+* Sky AdSmart
+* Infosum
 ```
 
 
